@@ -40,6 +40,6 @@ Contributions are welcome! If you'd like to contribute to DiceAppFlutter, please
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+### References 
+[Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart)
+ 
